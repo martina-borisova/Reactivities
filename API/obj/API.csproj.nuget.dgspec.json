@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\Projects\\Reactivities\\API\\API.csproj",
         "projectName": "API",
         "projectPath": "D:\\Projects\\Reactivities\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Martina Borisova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\reactuser\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Martina Borisova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reactuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,14 +78,14 @@
         "projectUniqueName": "D:\\Projects\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
         "projectPath": "D:\\Projects\\Reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Martina Borisova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\reactuser\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Martina Borisova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reactuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,14 +140,14 @@
         "projectUniqueName": "D:\\Projects\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
         "projectPath": "D:\\Projects\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Martina Borisova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\reactuser\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Martina Borisova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reactuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -195,14 +195,14 @@
         "projectUniqueName": "D:\\Projects\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
         "projectPath": "D:\\Projects\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\Martina Borisova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\reactuser\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Martina Borisova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reactuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

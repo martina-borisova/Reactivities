@@ -1302,7 +1302,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Martina Borisova\\.nuget\\packages\\": {},
+    "C:\\Users\\reactuser\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -1311,14 +1311,14 @@
       "projectUniqueName": "D:\\Projects\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
       "projectPath": "D:\\Projects\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\Martina Borisova\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\reactuser\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Martina Borisova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\reactuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

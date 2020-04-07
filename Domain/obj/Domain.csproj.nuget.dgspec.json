@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\Projects\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
         "projectPath": "D:\\Projects\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Martina Borisova\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\reactuser\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Martina Borisova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reactuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
