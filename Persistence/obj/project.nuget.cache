@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "AAA9G8k3NW24ETtzh58jNRNV6SiYP5Cdqj1inHvhjS/KU/zxSuV/uau5KGO0N27DIY9WwcKzgSFlZLleJGhJgQ==",
+  "dgSpecHash": "RU9cXoWaD2fVlcpY1FFb23MkUCHhCFxkrkGOlOY3B395ZJ7bSjElTJosmAQmV3cIkKC0x96btrAgN6vAkgDT1g==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.0.0\\microsoft.aspnetcore.cryptography.internal.3.0.0.nupkg.sha512",
+    "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.0.0\\microsoft.aspnetcore.cryptography.keyderivation.3.0.0.nupkg.sha512",
+    "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.0.0\\microsoft.aspnetcore.identity.entityframeworkcore.3.0.0.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.2\\microsoft.data.sqlite.core.3.1.2.nupkg.sha512",
@@ -22,6 +25,8 @@
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.2\\microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.2\\microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.2\\microsoft.extensions.dependencymodel.3.1.2.nupkg.sha512",
+    "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.identity.core\\3.0.0\\microsoft.extensions.identity.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.0.0\\microsoft.extensions.identity.stores.3.0.0.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.logging\\3.1.2\\microsoft.extensions.logging.3.1.2.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.2\\microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\microsoft.extensions.options\\3.1.2\\microsoft.extensions.options.3.1.2.nupkg.sha512",
