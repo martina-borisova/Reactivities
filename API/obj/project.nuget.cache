@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OKzV+sjjLDi1SHPIlFVc8lIVGjur7028JnhECiJtC0y16S1MSs6AUPyhKdxptQyTuEsc6qH2aPJqfSsWc1dHVw==",
+  "dgSpecHash": "i21jMLKfiOwyAMzMqdZfHW6kKtHEyndbonb8YEKRvOxbML1kyQjfmrAipHBUEQRfcG+2nDxDkjS8VsNGODpEYw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reactuser\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\reactuser\\.nuget\\packages\\cloudinarydotnet\\1.8.0\\cloudinarydotnet.1.8.0.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
     "C:\\Users\\reactuser\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
