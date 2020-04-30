@@ -20,5 +20,6 @@ namespace Domain
         public string Venue { get; set; }
         // virtual - uses lazy loading 
         public virtual ICollection<UserActivity> UserActivities { get; set; }
+        public virtual ICollection<Comment> Comments { get; set; }
     }
 }

@@ -1,6 +1,5 @@
 import React, { Fragment, useContext, useEffect } from "react";
 import { Container } from "semantic-ui-react";
-import { NavBar } from "../../features/nav/NavBar";
 import ActivityDashboard from "../../features/activities/dashboard/ActivityDashboard";
 import { observer } from "mobx-react-lite";
 import {
@@ -19,6 +18,7 @@ import { RootStoreContext } from "../stores/rootStore";
 import LoadingComponent from "./LoadingComponent";
 import ModalContainer from "../common/modals/ModalContainer";
 import ProfilePage from "../../features/profiles/ProfilePage";
+import NavBar from "../../features/nav/NavBar";
 
 const App: React.FC<RouteComponentProps> = ({ location }) => {
   const rootStore = useContext(RootStoreContext);
